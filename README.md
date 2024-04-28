@@ -1,4 +1,4 @@
-# Project Name
+# PROJECTS OF THE COURSE
 
 ## Description
 
